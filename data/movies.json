@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "",
+      "image": "../images/movie10.webp",
       "eps_num": "16",
       "type": ["ГЭМТ ХЭРЭГ", "УЯНГА"],
       "filtera": "Олон ангит",

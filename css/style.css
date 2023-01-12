@@ -241,3 +241,12 @@
 		  display: none;
 	  }
   }
+  .featuredBtn.active {
+	color:rgb(22, 22, 22);
+	background-color:rgb(255, 255, 255);
+  }
+  
+  .featuredBtn {
+	background: rgb(22, 22, 22);
+	color: rgb(255, 255, 255);
+  }
